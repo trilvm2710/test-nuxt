@@ -2,6 +2,12 @@
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
+   nitro: {
+    preset: 'static',
+    prerender: {
+      routes: ['/', '/home']
+    }
+  },
   css: [
     '~/assets/styles/main.scss'
   ],

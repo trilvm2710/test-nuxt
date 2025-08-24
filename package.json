@@ -2,14 +2,12 @@
   "name": "nuxt-app",
   "type": "module",
   "private": true,
-  "homepage": "https://trilvm2710.github.io/test-nuxt/",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare",
-    "deploy": "npm run generate && gh-pages -d .output/public"
+    "postinstall": "nuxt prepare"
   },
   "dependencies": {
     "@nuxt/content": "^3.6.3",

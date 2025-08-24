@@ -1,0 +1,18 @@
+// 1. Thư viện ngoài (Vendors)
+@import "vue3-carousel/carousel.css";
+@import "bootstrap/scss/bootstrap";
+
+// 2. Base & Cấu hình (Base & Config)
+@import "base/reset.scss";
+@import "abstracts/variables.scss";
+
+// 3. Components & Layouts
+@import "layouts/header.scss";
+@import "layouts/footer.scss";
+@import "components/advantage.scss";
+@import "components/title.scss";
+@import "components/carousel.scss";
+@import "components/buttons.scss";
+
+// 3.Pages
+@import "pages/home.scss";

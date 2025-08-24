@@ -1,0 +1,35 @@
+.btn {
+  padding: 8px 32px;
+  border-radius: 100px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  color: $black;
+
+  &:hover {
+    background-color: $yellow;
+    border-color: $yellow;
+    color: $black-b;
+  }
+}
+
+.btn-secondary {
+  border: 1px solid $primary;
+  background-color: $black;
+  color: $gray;
+
+  &:hover {
+    border-color: $yellow-a;
+    background: transparent;
+  }
+}

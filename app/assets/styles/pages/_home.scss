@@ -1,0 +1,32 @@
+.collections {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: black;
+}
+.hot-new {
+  padding-bottom: 80px;
+  background-color: black;
+  .new-image {
+    height: 240px;
+  }
+}
+.slider {
+  img {
+    border-radius: 0;
+  }
+}
+@media (max-width: 768px) {
+  .collections {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .hot-new {
+    padding-bottom: 40px;
+    .new-image {
+      height: 170px;
+    }
+  }
+  .pt-40 {
+    padding-top: 40px;
+  }
+}

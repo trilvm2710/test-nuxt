@@ -24,22 +24,22 @@
               >
             </li>
             <li class="nav-item">
-              <NuxtLink to="/about" class="nav-link" @click="closeMenu"
+              <NuxtLink to="/" class="nav-link" @click="closeMenu"
                 >items1</NuxtLink
               >
             </li>
             <li class="nav-item">
-              <NuxtLink to="/contact" class="nav-link" @click="closeMenu"
+              <NuxtLink to="/" class="nav-link" @click="closeMenu"
                 >items2</NuxtLink
               >
             </li>
             <li class="nav-item">
-              <NuxtLink to="/contact" class="nav-link" @click="closeMenu"
+              <NuxtLink to="/" class="nav-link" @click="closeMenu"
                 >items3</NuxtLink
               >
             </li>
             <li class="nav-item">
-              <NuxtLink to="/contact" class="nav-link" @click="closeMenu"
+              <NuxtLink to="/" class="nav-link" @click="closeMenu"
                 >items4</NuxtLink
               >
             </li>

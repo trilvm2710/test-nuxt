@@ -8,15 +8,16 @@
 
 <script setup>
 import { Carousel, Slide, Navigation } from "vue3-carousel";
+import image from '@/assets/images/slider.png'
 
 const images = [
   {
     id: 1,
-    name: "slider.png",
+    name: image,
   },
   {
     id: 2,
-    name: "slider.png",
+    name: image,
   },
 ];
 const config = {

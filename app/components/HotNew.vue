@@ -4,15 +4,15 @@
 
 <script setup>
 import { Carousel, Slide, Navigation } from 'vue3-carousel'
-
+import image from '@/assets/images/image.png'
 const images = [
   {
     id: 1,
-    name: 'image.png'
+    name: image
   },
   {
     id: 2,
-    name: 'image.png'
+    name: image
   },
 ];
 const config = {

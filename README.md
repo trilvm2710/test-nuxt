@@ -4,7 +4,15 @@ Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduct
 
 # Screenshot
 
-[Desktop View](./app//assets/images/desktop.png)
+## Desktop View
+<img src="./app//assets/images/desktop.png" alt="Screeshot">
+
+## Mobile View
+<img src="./app//assets/images/mobile.png" alt="Screeshot">
+
+## Mobile Menu View
+<img src="./app//assets/images/menu.png" alt="Screeshot"> 
+
 ## Setup
 
 Make sure to install dependencies:

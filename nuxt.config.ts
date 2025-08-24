@@ -5,7 +5,7 @@ export default defineNuxtConfig({
    nitro: {
     preset: 'static',
     prerender: {
-      routes: ['/', '/home']
+      routes: ['/', '/']
     }
   },
   css: [

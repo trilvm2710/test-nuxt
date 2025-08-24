@@ -2,6 +2,9 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+# Link
+https://trilvm2710.github.io/test-nuxt/
+
 # Screenshot
 
 ## Desktop View

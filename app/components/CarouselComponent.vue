@@ -23,7 +23,7 @@ const props = defineProps({
 <div class="carousel-content">
   <Carousel v-bind="props.config">
     <Slide v-for="image in props.images" :key="image.id">
-      <img :src="`../assets/images/${image.name}`" alt="image" />
+      <img :src="`/images/${image.name}`" alt="image" />
     </Slide>
     <template #addons>
       <Navigation v-if="props.showNavigation"/>

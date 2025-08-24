@@ -8,13 +8,13 @@ https://trilvm2710.github.io/test-nuxt/
 # Screenshot
 
 ## Desktop View
-<img src="./app//assets/images/desktop.png" alt="Screeshot">
+<img src="./app/assets/images/desktop.png" alt="Screeshot">
 
 ## Mobile View
-<img src="./app//assets/images/mobile.png" alt="Screeshot">
+<img src="./app/assets/images/mobile.png" alt="Screeshot">
 
 ## Mobile Menu View
-<img src="./app//assets/images/menu.png" alt="Screeshot"> 
+<img src="./app/assets/images/menu.png" alt="Screeshot"> 
 
 ## Setup
 
